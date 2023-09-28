@@ -1,0 +1,17 @@
+name: keycloak
+displayName: keycloak
+description: Custom Helm for keycloak
+keywords:  # Keywords to help users find your charts.
+  - keycloak
+  - identity provider
+url: https://github.com/rasonego/bmw
+license: Apache-2.0
+maintainers:  # List of maintainers for your repository.
+  - name: Rafael Sonego
+    email: rasonego@gmail.com
+    url: https://github.com/rasonego
+repository:
+  type: helm
+  url: https://github.com/rasonego/bmw
+  name: rafaelkeycloak
+  org: rafaelsonego
